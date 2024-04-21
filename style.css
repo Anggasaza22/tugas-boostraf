@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+header, footer {
+    padding: 20px;
+    background-color: #d86969;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.share-buttons {
+    margin-bottom: 20px;
+}
+
+.share-buttons a {
+    margin-right: 10px;
+}
+
+.nav-artikel {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.komentar {
+    margin-bottom: 20px;
+    border: 1px solid #d76d6d;
+    padding: 10px;
+}
+
+.komentar .komentar-isi {
+    margin-bottom: 10px;
+}
+
+.komentar .komentar-nama {
+    font-weight: bold;
+}
+
+.form-komentar {
+
+}
